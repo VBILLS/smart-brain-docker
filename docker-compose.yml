@@ -28,13 +28,3 @@ services:
       POSTGRES_HOST: postgres
     ports:
       - '5432:5432'
-    # environment:
-    #   POSTGRES_USER: admin
-    #   POSTGRES_PASSWORD: password
-    #   POSTGRES_URL: postgres://admin:password@:5432/smart-brain-docker
-    #   POSTGRES_DB: smart-brain-docker
-    #   POSTGRES_HOST: postgres
-    # POSTGRES_USER: sally
-    # POSTGRES_PASSWORD: secret
-    # POSTGRES_DB: smart-brain-docker
-    # POSTGRES_HOST: postgres
