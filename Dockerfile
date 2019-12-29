@@ -1,4 +1,4 @@
-FROM node:8.11.1
+FROM node:latest
 
 # RUN mkdir -p /usr/src/smart-brain-api
 WORKDIR /usr/src/smart-brain-api
